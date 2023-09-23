@@ -1,2 +1,2 @@
 # Testing-Django
-Messing around with Django
+Learning and messing around with Django
